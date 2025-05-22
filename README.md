@@ -2,6 +2,8 @@
 This project focuses on building an end-to-end interactive dashboard in Power BI to analyze and visualize car sales data. The objective is to track sales trends over time, compare performance across various dimensions, and enable users to interact with the data through dynamic visuals and filters.
 ## Dataset Used
 -<a href="https://github.com/Thirisha255/Power-BI-Car-Sales-Dashboard/blob/main/Car%20sales%20dataset.xlsx">Dataset</a>
+## problem Statement to Solve
+
 ##  Data Preparation & Transformation:
 - Performed data cleaning using Power Query, ensuring column consistency, correct data types, and removal of null or duplicate values.
 - Assessed column quality and distribution to validate data integrity before modeling.
